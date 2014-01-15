@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>marionette</string>
 	<key>CFBundleName</key>
-	<string>Marionnette.js</string>
+	<string>Marionette.js</string>
 	<key>DocSetPlatformFamily</key>
 	<string>marionette</string>
 	<key>isDashDocset</key>
